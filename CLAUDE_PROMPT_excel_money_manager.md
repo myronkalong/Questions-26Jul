@@ -1,5 +1,7 @@
 # How to use this prompt
 
+Product spec with highlighted edits vs the original list: [`money-manager-requirements.md`](money-manager-requirements.md).
+
 Copy everything from the line **BEGIN PROMPT** through **END PROMPT** and paste it into Claude as a single instruction. Claude should produce a working `.xlsx` (Excel 365 / Excel 2021+). Do not add extra product decisions; every toggle, filter, and spec gap is already resolved below.
 
 ---
