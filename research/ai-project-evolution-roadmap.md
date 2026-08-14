@@ -72,6 +72,8 @@ flowchart TD
 
 **Read the funnel as a sales map.** Money still exists at Explore (declining, commoditized). The paid, scarce work is **forcing Pilot → Production**, then **installing the platform that makes the second workflow cheap**.
 
+For the full operating manual — what you do at each stage, how a firm **adds and captures value**, and how to be **distinct from MBB / Big 4 / SIs / vendors / the CoE** — see [project-evolution-consulting-playbook.md](project-evolution-consulting-playbook.md).
+
 ### What the client pays at each stage
 
 | Stage | Buyer | Check size (directional) | Duration |

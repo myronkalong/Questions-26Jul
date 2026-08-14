@@ -313,6 +313,7 @@ The next big opportunity is not “AI.” It is **making AI show up in the P&L b
 8. Stanford HAI, *AI Index 2026* (corporate AI investment / inference-cost deflation cited in McKinsey)
 9. Secondary compilations used only to cross-check Gartner segment tables: [Axis Intelligence](https://axis-intelligence.com/ai-spending-statistics/) (Jul 2026). Industry *absolute* spend figures on aggregator blogs ($186B vs $407B vs Gartner’s $2.59T) **conflict and should not be used** — stick to BCG % of revenue and Gartner segments.
 10. Roadmap (project funnel, 2027 trough, bottleneck stack): [ai-project-evolution-roadmap.md](ai-project-evolution-roadmap.md)
+11. Stage-by-stage consulting value, capture, and differentiation: [project-evolution-consulting-playbook.md](project-evolution-consulting-playbook.md)
 
 ### Caveats
 
