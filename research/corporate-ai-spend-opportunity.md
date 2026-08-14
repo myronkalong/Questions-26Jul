@@ -19,6 +19,8 @@ That gap is the opportunity.
 
 **What to sell next is not another AI strategy deck.** Most large companies already bought that. The next paid work is: take one or two economically critical workflows into production, redesign the operating model around agents, put cost and risk controls on machine work, and prove ROI in a language a CFO will sign.
 
+**How this evolves from here:** see the companion roadmap — [ai-project-evolution-roadmap.md](ai-project-evolution-roadmap.md). Short version: 2026 is the peak of agent hype; 2027 is the trough (chatbot spend peaks, 40%+ of agent projects get canceled); 2028+ demand sits inside core systems and a machine-work operating model. The binding bottleneck shifts from models (solved) to **data/context + workflow**, then **cost and risk**, then **people**. Power binds the physical stack, not your SOW.
+
 ---
 
 ## 1. Do not confuse the $2.59T headline with client budgets
@@ -310,6 +312,7 @@ The next big opportunity is not “AI.” It is **making AI show up in the P&L b
 7. MIT NANDA / Challapally et al., *The GenAI Divide: State of AI in Business 2025,* Jul 2025: <https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf>
 8. Stanford HAI, *AI Index 2026* (corporate AI investment / inference-cost deflation cited in McKinsey)
 9. Secondary compilations used only to cross-check Gartner segment tables: [Axis Intelligence](https://axis-intelligence.com/ai-spending-statistics/) (Jul 2026). Industry *absolute* spend figures on aggregator blogs ($186B vs $407B vs Gartner’s $2.59T) **conflict and should not be used** — stick to BCG % of revenue and Gartner segments.
+10. Roadmap (project funnel, 2027 trough, bottleneck stack): [ai-project-evolution-roadmap.md](ai-project-evolution-roadmap.md)
 
 ### Caveats
 
